@@ -11,6 +11,7 @@ Welcome to sphinx quick tutorial's documentation!
    :caption: 第一章简介 :
    
    1-introduction/intro.rst
+   1-introduction/test.rst
 
 
 

@@ -12,6 +12,7 @@ Welcome to sphinx quick tutorial's documentation!
    
    1-introduction/intro.rst
    1-introduction/test.rst
+   1-introduction/demo.rst
 
 
 
